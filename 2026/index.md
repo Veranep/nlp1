@@ -8,7 +8,7 @@ menu:
 - Schedule
 - Assessment
 - Attendance
-- Practicals
+- Datasets
 ---
 
 
@@ -46,9 +46,8 @@ We have no requirements on individual grade components. A student passes the cou
 
 Attendace (lectures and tutorials) is encouraged but not mandatory. 
 
-# Practicals
+# Datasets
 
-## Datasets
 
 Here is a list of datasets/tasks from which you can choose what to work throughout the practicals. You should keep your choice throughout all 3 practicals. 
 
