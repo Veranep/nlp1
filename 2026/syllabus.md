@@ -32,6 +32,7 @@ menu:
         * After HC3b: [Chapter 6](https://web.stanford.edu/~jurafsky/slp3/6.pdf) (sections 6.3--6.6) and [Chapter 14](http://web.stanford.edu/~jurafsky/slp3/14) (sections 14.3.2, 14.4 and 14.5)
 * Week 4: Discourse
     * HC4a: Document representations and coreference
+    * Before or after HC4a: [Chapter 25](https://web.stanford.edu/~jurafsky/slp3/25.pdf) (section 25.1) and [Chapter 24](https://web.stanford.edu/~jurafsky/slp3/25.pdf) (sections 24.1-24.3, 24.5-24.6)
 * Week 5: The Building Blocks of Modern NLP
     * HC5a: Sequence modelling
     * HC5b: Transfer learning
