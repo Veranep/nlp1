@@ -32,7 +32,7 @@ permalink: /blog/
             </a>
           </h3>
 
-          {{ post.excerpt | markdownify | truncatewords: 30 }}
+          {{ post.tldr | markdownify | truncatewords: 100 }}
         </li>
       {% endfor %}
     </ul>
